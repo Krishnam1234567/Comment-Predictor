@@ -1,0 +1,14 @@
+accelerate
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+transformers[torch]
+datasets
+evaluate
+rouge-score
+nltk
+scikit-learn
+sentencePiece
+pyyaml
